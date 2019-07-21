@@ -14,5 +14,9 @@
   		<artifactId>exp2-security-core</artifactId>
   		<version>${exp.security.version}</version>
   	</dependency>
+  	<dependency>
+  		<groupId>org.springframework.session</groupId>
+  		<artifactId>spring-session</artifactId>
+  	</dependency>
   </dependencies>
 </project>
